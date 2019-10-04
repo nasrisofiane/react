@@ -16,13 +16,18 @@ ex:
 
 < button /> sera un élément HTML
 
-< Button /> sera un component React que l'on aura appelé Button.
+< Button /> sera un component React que l'on aura appelé Button. 
+
+C'est le fait d'utiliser la notation avec les chevrons ( </> ) qui appelle un component ( en créeant une instance de ce component )
+
+La notion de parent et d'enfant est arbitraire, si un component en appelle un autre component B dans sa partie jsx,
+dans ce cas
 
 ### Instructions :
 -------
 
-
-- créez un component Button et appelez le dans App
+- créez un component Button
+- dans la partie jsx du component App, utilisez le component Button.
 - -------
 
 
