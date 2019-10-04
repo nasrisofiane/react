@@ -62,7 +62,7 @@ voir https://fr.reactjs.org/docs/handling-events.html pour faire :
 
 ## gérer le state :
 
-### Contexteg
+### Contexte
 Le **state** permet notamment de **stocker** un changement de valeurs qui appartiennent à un **component**, c'est notamment nécessaire / un moyen naturel lorsqu'on peut **modifier des valeurs depuis l'UI**, le cas d'excellence étant un **formulaire** et la gestion des valeurs de ses **inputs**, **checkbox** etc
 
 ### Instructions 
